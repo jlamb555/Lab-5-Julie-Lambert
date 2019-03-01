@@ -78,7 +78,7 @@
             </aside>
 
             <footer>
-                <p>Holy <a target="_blank" href="http://www.508checker.com/what-is-508-compliance">Accessibility  Policy</a></p>
+                <p>This was Touched by Nana Nimako.Holy <a target="_blank" href="http://www.508checker.com/what-is-508-compliance">Accessibility  Policy</a></p>
             </footer>
 
         </body>
