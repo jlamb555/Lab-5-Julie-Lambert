@@ -7,6 +7,7 @@
             <meta name="description" content="Lab Sample">
             <link rel="stylesheet"
                   title="lynyrd skynrd"
+
                   href="git-group-custompersonal.css">
                
         </head>
@@ -52,7 +53,7 @@
                     <li>Cry For The Bad Man</li>
                     <li>Double Trouble</li>
                     <li>Roll Gypsy Roll</li>
-                    <li>Searching</li>
+                    
                     <li>I Got The Same Old Blues</li>
                     <li><a href='http://www.lynyrdskynyrdhistory.com/lyrics/70-77/bullets/buli.html'>All I Can Do Is Write About It</a> </li>
                 </ol>
